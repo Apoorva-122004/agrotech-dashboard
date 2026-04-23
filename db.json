@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": "1",
+      "timestamp": "2023-10-24 14:28:55",
+      "process": "NET_HANDSHAKE",
+      "severity": "INFO",
+      "message": "IoT Cloud synchronization complete. Latency: 12ms"
+    },
+    {
+      "id": "2",
+      "timestamp": "2023-10-24 14:30:12",
+      "process": "SYS_ALERT",
+      "severity": "WARN",
+      "message": "Minor pressure fluctuation detected in Main Line [Sector D]"
+    },
+    {
+      "id": "3",
+      "timestamp": "2023-10-24 14:31:45",
+      "process": "PUMP_SEQ",
+      "severity": "INFO",
+      "message": "PUMP_01 operating at nominal pressure 4.2 Bar"
+    },
+    {
+      "id": "4",
+      "timestamp": "2023-10-24 14:32:01",
+      "process": "MOISTURE_SCAN",
+      "severity": "INFO",
+      "message": "Sector A baseline moisture at 78% (Target: 75%)"
+    },
+    {
+      "timestamp": "2023-10-24 16:00:00",
+      "process": "USER_NOTE",
+      "severity": "INFO",
+      "message": "Verification note",
+      "id": "9FOQqkeC7-Q"
+    },
+    {
+      "timestamp": "2026-04-23 06:36:56",
+      "process": "USER_NOTE",
+      "severity": "INFO",
+      "message": "Successfully connected to Port 5001",
+      "id": "TgpV6Inqo8g"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
