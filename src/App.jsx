@@ -4,6 +4,7 @@ import BottomNav from './components/BottomNav';
 import Dashboard from './pages/Dashboard';
 import Sensors from './pages/Sensors';
 import Pumps from './pages/Pumps';
+import Alerts from './pages/Alerts';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path="/" element={<Dashboard />} />
           <Route path="/sensors" element={<Sensors />} />
           <Route path="/pumps" element={<Pumps />} />
+          <Route path="/alerts" element={<Alerts />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </div>

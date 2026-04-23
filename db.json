@@ -41,6 +41,41 @@
       "severity": "INFO",
       "message": "Successfully connected to Port 5001",
       "id": "TgpV6Inqo8g"
+    },
+    {
+      "timestamp": "2026-04-23 07:42:18",
+      "process": "PUMP_SEQ",
+      "severity": "INFO",
+      "message": "PUMP_02_REDUNDANT turned ON",
+      "id": "IYDzdMwBzVM"
+    },
+    {
+      "timestamp": "2026-04-23 07:42:20",
+      "process": "PUMP_SEQ",
+      "severity": "INFO",
+      "message": "PUMP_02_REDUNDANT turned ON",
+      "id": "QGj6fvuRyA4"
+    },
+    {
+      "timestamp": "2026-04-23 07:42:22",
+      "process": "PUMP_SEQ",
+      "severity": "INFO",
+      "message": "PUMP_02_REDUNDANT turned ON",
+      "id": "Odw4nlLAEBo"
+    },
+    {
+      "timestamp": "2026-04-23 07:42:23",
+      "process": "PUMP_SEQ",
+      "severity": "INFO",
+      "message": "PUMP_02_REDUNDANT turned ON",
+      "id": "UEYleDDOlqI"
+    },
+    {
+      "timestamp": "2026-04-23 07:42:25",
+      "process": "PUMP_SEQ",
+      "severity": "INFO",
+      "message": "PUMP_02_REDUNDANT turned ON",
+      "id": "2io-pfhUMFs"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
